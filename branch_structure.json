@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/355-public-endpoint-docs",
+    "docs/document-mutating-endpoints-355",
+    "main",
+    "origin",
+    "revert-75-feature/verification-state-machine"
+  ],
+  "parent": {
+    "docs/355-public-endpoint-docs": "main",
+    "docs/document-mutating-endpoints-355": "main",
+    "main": null,
+    "origin": "main",
+    "revert-75-feature/verification-state-machine": "main"
+  },
+  "order": [
+    "main",
+    "docs/355-public-endpoint-docs",
+    "docs/document-mutating-endpoints-355",
+    "origin",
+    "revert-75-feature/verification-state-machine"
+  ]
+}
